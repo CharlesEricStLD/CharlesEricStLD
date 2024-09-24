@@ -1,4 +1,4 @@
-# Charles-Eric - CharlesEricSTLD 
+# Charles-Eric - @CharlesEricSTLD 
 ## Fullstack Freelance and Outdoor Enthusiast :mountain_snow: :camping: :bike:
 
 ## 💻 Tech Stack:
@@ -14,7 +14,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ---
 <br>🔭 I’m currently working on a full-stack platform dedicated to providing real-time snow conditions for all cross-country ski centers in Quebec. This centralized solution streamlines the process of finding updates, offering users quick access to the latest conditions for their favorite spots, with features like log into their profile and the ability to create favorites.
-<br>🤝 I’m looking for help with mastering advanced TypeScript and integrating microservices.<br>🌱 I’m currently learning C#, server management, SQL, and PHP.<br>💬 Ask me about transitioning from outdoor guide to tech and the balance between functionality and maintainability in development.<br>⚡ Fun fact: I’ve worked in environments ranging from 40°C to -40°C!<br>```
+
+<br>🤝 I’m looking for help with mastering advanced TypeScript and integrating microservices.<br>🌱 I’m currently learning C#, server management, SQL, and PHP.
+<br>💬 Ask me about transitioning from outdoor guide to tech and the balance between functionality and maintainability in development.<br>⚡ Fun fact: I’ve worked in environments ranging from 40°C to -40°C!<br>
 
 ***
 
