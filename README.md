@@ -35,9 +35,6 @@ Whether collaborating with teams or tackling projects on my own, I focus on maki
 
 ***
 
-### Get in touch
-My site: [https://cstlouidupuis.com/](url)
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-Eric-st-l-dupuis) 
 <!-- Proudly created with the help of GPRM ( https://gprm.itsvg.in ) -->
